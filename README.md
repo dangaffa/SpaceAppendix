@@ -101,6 +101,10 @@ Appendix of various space terms
 
 **BONG**: Blue Origin New Glenn
 
+**CLV**: Crew Launch Vehicle, ESAS' name for what would eventually be called the Ares I
+
+**CaLV**: Cargo Launch Vehicle, ESAS' name for what would eventually be called the Ares V
+
 **DIV/DIVH**: Delta IV(4) and Delta IV Heavy
 
 **F9/FH**: Falcon 9/Falcon Heavy, SpaceX's current launch vehicles
@@ -137,13 +141,23 @@ Appendix of various space terms
 
 **EDS**: Earth Departure Stage, upper stage designed for the Ares V launch vehicle, also used on early SLS concepts
 
+**ESAS**: [Exploartion Systems Architecture Study]{https://web.archive.org/web/20080708225321/http://www.nasa.gov/pdf/140649main_ESAS_full.pdf}, paper outlining the architecture for what would later be called the Constellation program
+
 **EUS**: Exploration Upper Stage, (former) evolved upper stage for the SLS
 
 **HLS**: Human Landing System, the first Artemis-era lunar lander, often referring to just the Starship derived Starship HLS
 
 **ICPS**: Interim Cryogenic Propulsion Stage, upper stage for SLS designed for 3 flights, derived from the DIV upper stage
 
+**ISS**: International Space Station, space station built in colaboration with 15 separate countries, continually occupied since 2000
+
 **LM**: Lunar Module, lunar lander for the Apollo program
+
+**LSAM**: Lunar Surface Access Module, ESAS' name for what would eventually be called the Altair lunar lander. Also used by For All Mankind for it's (unrelated) lunar lander
+
+**MTV**: Mars Transfer Vehicle, spacecraft designed to send crew or cargo to Mars and back
+
+**RSRB**: Reusable Solid Rocket Booster, other name for the Space Shuttle's Solid Rocket Boosters
 
 **SLD**: Sustainable Lunar Development, name for the porgram making the second generation lunar landers for Artemis, applicable to the BMM2 and evolutions of Starship HLS
 
