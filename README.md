@@ -141,7 +141,7 @@ Appendix of various space terms
 
 **EDS**: Earth Departure Stage, upper stage designed for the Ares V launch vehicle, also used on early SLS concepts
 
-**ESAS**: [Exploartion Systems Architecture Study]{https://web.archive.org/web/20080708225321/http://www.nasa.gov/pdf/140649main_ESAS_full.pdf}, paper outlining the architecture for what would later be called the Constellation program
+**ESAS**: [Exploartion Systems Architecture Study](https://web.archive.org/web/20080708225321/http://www.nasa.gov/pdf/140649main_ESAS_full.pdf), paper outlining the architecture for what would later be called the Constellation program
 
 **EUS**: Exploration Upper Stage, (former) evolved upper stage for the SLS
 
