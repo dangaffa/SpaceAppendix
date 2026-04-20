@@ -29,6 +29,8 @@ Appendix of various space terms
 
 **GSE**: Ground Support Equipment, the parts of the launch system that stay on the ground, "Stage Zero" as SpaceX would put it
 
+**ISRU**: In-Situe Resource Utilization, creating fuel, materials, etc. from extraplanetary resources, rather than bringing all of it from Earth
+
 **LBO**: Low BoilOff, technologies which allow for little fuel to be lost in CFM
 
 **LC**: Launch Complex, prefix for launchpads which are operated by NASA
@@ -65,6 +67,12 @@ Appendix of various space terms
 
 **ESA**: European Space Agency, Europe's primary overarching space agency
 
+**FAA**: Federal Aviation Administration, US organization which regulates airspace, including space launches
+
+**FCC**: Federal Communication Comission, US organization which regulates radio signals, including those eminating from spacecraft
+
+**ISRO**: Indian Space Research Organization, India's space agency
+
 **JAXA**: Japan Aerospace eXploration Agency: Japan's space administration
 
 **LM**: Lockheed Martin, aerospace firm best known for the Orion capsule and the Atlas V rocket
@@ -90,6 +98,8 @@ Appendix of various space terms
 **CLPS**: Commercial Lunar Payload Services, unmanned lunar landing program by NASA
 
 **EELV**: Evolved Expendable Launch Vehicle, program designed to select the next generation of launch vehicles for the US Air Force
+
+**ILRS**: International Lunar Research Station, planned Chinese-centric lunar base, also the name of a multinational agreement for participation in the program, a la Artemis Accords
 
 **NSSL**: National Security Space Launch, evolution of EELV
 
@@ -125,6 +135,8 @@ Appendix of various space terms
 
 **ABC**: Artemis Base Camp, Artemis Program's lunar base
 
+**ASTP**: Apollo Soyuz Test Project, mission in 1975 which involved the docking of a Soyuz and Apollo capsule together, to demonstrate international collaboration in space
+
 **BOLE**: Booster Obsolescence and Life Extension, often used when discussing the boosters designed for SLS Block 2
 
 **BMM1/BMM2**: Blue Moon Mark 1/2, Blue Origin lunar landers, Mk1 is uncrewed, Mk2 is crewed
@@ -144,6 +156,12 @@ Appendix of various space terms
 **ESAS**: [Exploartion Systems Architecture Study](https://web.archive.org/web/20080708225321/http://www.nasa.gov/pdf/140649main_ESAS_full.pdf), paper outlining the architecture for what would later be called the Constellation program
 
 **EUS**: Exploration Upper Stage, (former) evolved upper stage for the SLS
+
+**GLONASS**: GLObal NAvigation Satellite System, Russia's satellite navigation constellation
+
+**GPS**: Global Positioning System, America's satellite navigation constellation, created by the USAF and operated by the USSF. Often used as shorthand for any satellite navigation system
+
+**GS1/2**: Glenn Stage 1/2, used to refer to the stages of Blue Origin's New Glenn rocket
 
 **HLS**: Human Landing System, the first Artemis-era lunar lander, often referring to just the Starship derived Starship HLS
 
@@ -170,6 +188,16 @@ Appendix of various space terms
 **SSME**: Space Shuttle Main Engine, liquid hydrogen engine used to power the Space Shuttle as well as the SLS
 
 **STME**: Space Transportation Main Engine, engine derived from the SSME, designed for NLS
+
+## Alt Histories
+
+**ETS**: [Eyes Turned Skyward](https://www.alternatehistory.com/forum/threads/eyes-turned-skywards.208954/), alternate history in which the Space Shuttle was never greenlit
+
+**FAM**: For All Mankind, alternate history by Apple TV in which Korelev survives his heart surgery, leading to the Soviet Union being able to beat Americans to landing on the moon
+
+**JTL**: [Jupiter TimeLine](https://www.alternatehistory.com/forum/threads/and-now-for-something-a-little-different-the-jupiter-timeline.541841/), story in which the Jupiter Direct line of launch vehicles was chosen by NASA
+
+
 
 
 
